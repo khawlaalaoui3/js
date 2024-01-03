@@ -1,0 +1,35 @@
+body
+{
+		margin: 2%;
+		border: 1px solid rgb(196, 148, 197);
+		background-color: #cdb3c7;
+}
+#image
+{
+    line-height:650px;
+	width: 575px;
+    height: 650px;
+	border:5px solid rgb(175, 50, 142);
+	margin:0 auto;
+    background-color: #ae3fda;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color:#FFFFFF;
+    text-align: center;
+    background-size: 100%;
+    margin-bottom:25px;
+    font-size: 150%;
+    background-size: cover ;  
+
+}
+.preview
+{
+	width:11%;
+	margin-left:17%;
+    border: 10px solid rgb(146, 123, 159);
+    height: 300px;
+    object-fit: cover;
+}
+
+
+
